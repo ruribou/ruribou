@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/-HTML5-black.svg?logo=HTML5&style=flat-square">
   <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat-square">
   <img src="https://img.shields.io/badge/-Python-white.svg?logo=python&style=flat-square">
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 <p align="left"> 
