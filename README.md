@@ -17,7 +17,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ryosan846538&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ryosan846538&theme=github_dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username={Ryosan846538}&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ryosan846538)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ryosan846538&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ryosan846538&theme=github_dark&utcOffset=8)
