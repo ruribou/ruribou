@@ -18,3 +18,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ryosan846538&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ryosan846538&theme=github_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ryosan846538&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ryosan846538&theme=github_dark&utcOffset=9)
+
+![GitHub persona](https://read-413014.an.r.appspot.com/create?username=Ryosan846538)
