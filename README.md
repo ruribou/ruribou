@@ -1,7 +1,10 @@
-<h3>Things I code with</h3>
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,flutter,py,ruby,c)](https://skillicons.dev)
+<h3>Programming Languages I've worked with</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,dart,flutter,py,ruby,c)](https://skillicons.dev)
 
 <h3>Things I tool with</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,azure,git,github,linux,notion,ubuntu,vite,yarn,npm)](https://skillicons.dev)
 
 
 <p align="left"> 
