@@ -1,11 +1,10 @@
-<h3>Programming Languages I've worked with</h3>
+<h2>🌱My Skills</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,dart,flutter,py,ruby,c)](https://skillicons.dev)
 
-<h3>Things I tool with</h3>
-
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,azure,apple,git,github,linux,notion,ubuntu,vite,yarn,npm)](https://skillicons.dev)
 
+<h2>📊My Status</h2>
 
 <p align="left"> 
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryosan846538&layout=compact&show_icons=true&theme=github_dark" />
