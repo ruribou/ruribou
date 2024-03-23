@@ -1,8 +1,7 @@
 ## 🌱My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,dart,flutter,py,ruby,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,dart,flutter,py,ruby,c,androidstudio,azure,apple,git,github,linux,notion,ubuntu,vite,yarn,npm&perline=5)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,azure,apple,git,github,linux,notion,ubuntu,vite,yarn,npm)](https://skillicons.dev)
 
 ## 📊My Status
 
