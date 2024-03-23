@@ -4,7 +4,7 @@
 
 <h3>Things I tool with</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,azure,git,github,linux,notion,ubuntu,vite,yarn,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,azure,apple,git,github,linux,notion,ubuntu,vite,yarn,npm)](https://skillicons.dev)
 
 
 <p align="left"> 
