@@ -1,6 +1,6 @@
 ## 🌱My Programing Languages 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,dart,flutter,py,ruby,c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,dart,flutter,py,ruby,java,c,cpp)](https://skillicons.dev)
 
 ## 🔧My Use Tools
 
