@@ -1,7 +1,14 @@
-## 🌱My Skills
+## 🌱My Programing Languages 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,dart,flutter,py,ruby,c,androidstudio,azure,apple,git,github,linux,notion,ubuntu,vite,yarn,npm&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,dart,flutter,py,ruby,c,cpp)](https://skillicons.dev)
 
+## 🔧My Use Tools
+
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,git,github,linux,notion,ubuntu,vite,yarn,npm)](https://skillicons.dev)
+
+## ☁️Clouds with experiences
+
+[![My Skills](https://skillicons.dev/icons?i=azure,aws)](https://skillicons.dev)
 
 ## 📊My Status
 
