@@ -1,5 +1,5 @@
 <h3>Things I code with</h3>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,flutter,py,ruby,c)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,flutter,py,ruby,c)](https://skillicons.dev)
 
 <h3>Things I tool with</h3>
 
