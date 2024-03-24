@@ -23,4 +23,4 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ryosan846538&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ryosan846538&theme=github_dark&utcOffset=9)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ryosan846538)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ryosan846538&column=5)](https://github.com/ryo-ma/github-profile-trophy)
