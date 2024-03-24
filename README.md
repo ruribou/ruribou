@@ -1,10 +1,10 @@
 ## 🌱 My Programing Languages 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,dart,flutter,py,ruby,java,c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,dart,flutter,py,flask,ruby,rails,java,c,cpp&perline=6)](https://skillicons.dev)
 
 ## 🔧 My Use Tools
 
-[![My Skills](https://skillicons.dev/icons?i=yarn,npm,vite,git,github,linux,ubuntu,androidstudio,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=yarn,npm,vite,vercel,git,github,linux,ubuntu,androidstudio,idea,notion)](https://skillicons.dev)
 
 ## ☁️ Clouds with experiences
 
