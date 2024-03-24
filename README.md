@@ -4,7 +4,7 @@
 
 ## 🔧 My Use Tools
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,git,github,linux,notion,ubuntu,vite,yarn,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=yarn,npm,vite,git,github,linux,ubuntu,androidstudio,notion)](https://skillicons.dev)
 
 ## ☁️ Clouds with experiences
 
