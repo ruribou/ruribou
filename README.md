@@ -23,9 +23,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=yarn,npm,vite,vercel,ubuntu,androidstudio,notion&perline=6)](https://skillicons.dev)
 
-## ☁️ Clouds with experiences
-
-[![My Skills](https://skillicons.dev/icons?i=azure,aws)](https://skillicons.dev)
 
 ## 📊 My Status
 
