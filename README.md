@@ -1,4 +1,4 @@
-# Ryota Asai / りょうさん （Ryosan）
+# Ryota Asai / りょうさん
 ## Profile
 - 東京電機大学 理工学部 理工学科情報システムデザイン学系（RD科） 学部3年
 - IoE/M2Mソリューション研究室（神戸研）
