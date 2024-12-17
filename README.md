@@ -19,7 +19,7 @@
 
 ## 🌱 My Programing Languages 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,dart,flutter,py,flask,ruby,rails,java,c,rust&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,dart,flutter,py,flask,ruby,rails,c,rust&perline=6)](https://skillicons.dev)
 
 ## 🔧 My Use Tools
 
