@@ -1,6 +1,6 @@
 ## Profile
 - 大学生です
-  - XR周りの研究をする予定です
+  - AR周りの研究
 - 埼玉県出身神奈川県在住
   - 活動範囲は関東中心、徐々に全国に拡大中
 ### My Hobby
@@ -17,7 +17,7 @@
 
 ## 🌱 My Programing Languages 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vuejs,flutter,py,flask,ruby,rails,c,rust&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vuejs,flutter,py,flask,ruby,rails,c,go&perline=6)](https://skillicons.dev)
 
 ## 🔧 My Use Tools
 
