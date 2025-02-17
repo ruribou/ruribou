@@ -15,13 +15,17 @@
 - ゲーム
   - スプラトゥーンとかMinecraftとか
 
-## 🌱 My Programing Languages 
+## 🥇 Main Programing Languages 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vuejs,flutter,py,flask,ruby,rails,c,go&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vuejs,ruby,rails,mysql&perline=6)](https://skillicons.dev)
+
+## 🥈 Sub Programing Languages 
+
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,remix,flutter,py,flask,c,go&perline=6)](https://skillicons.dev)
 
 ## 🔧 My Use Tools
 
-[![My Skills](https://skillicons.dev/icons?i=yarn,npm,vite,vercel,ubuntu,androidstudio,notion&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=npm,vite,vercel,docker&perline=6)](https://skillicons.dev)
 
 
 ## 📊 My Status
