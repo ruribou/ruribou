@@ -17,7 +17,7 @@
 
 ## 🥇 Main Programing Languages 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vuejs,ruby,rails,mysql&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vuejs,js,ruby,rails,mysql,html,css,scss&perline=6)](https://skillicons.dev)
 
 ## 🥈 Sub Programing Languages 
 
