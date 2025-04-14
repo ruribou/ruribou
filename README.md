@@ -1,10 +1,10 @@
 ## 🥇 Main Programing Languages 
 
-[![My Skills](https://skillicons.dev/icons?i=vuejs,js,ruby,rails,mysql,html,css,scss&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,mysql,html,scss,js,vuejs&perline=6)](https://skillicons.dev)
 
 ## 🥈 Sub Programing Languages 
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,remix,flutter,py,flask,c,go&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,flutter,py,flask,c,go&perline=6)](https://skillicons.dev)
 
 ## 🔧 My Use Tools
 
