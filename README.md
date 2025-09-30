@@ -4,7 +4,7 @@
 
 ## 🥈 Sub Programing Languages 
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,flutter,py,flask,c,go&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,flutter,swift,py,flask,c,go&perline=6)](https://skillicons.dev)
 
 ## 🔧 My Use Tools
 
