@@ -18,7 +18,7 @@ jobs:
         with:
           filename: output/metrics.base.svg
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-          base: header, activity, community, repositories, metadata
+          base: header, repositories, activity
 
       - name: Most used (with details)
         uses: lowlighter/metrics@latest
