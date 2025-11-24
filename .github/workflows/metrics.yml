@@ -1,11 +1,8 @@
 name: GitHub Metrics
 on:
-  # 毎日0時（UTC）に自動実行
   schedule:
     - cron: "0 15 * * *"
-  # 手動実行も可能にする
   workflow_dispatch:
-  # mainブランチへのpushでも実行
   push:
     branches:
       - main
