@@ -13,10 +13,5 @@
 
 ## 📊 My Status
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ruribou&layout=compact&show_icons=true&theme=github_dark)
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruribou&theme=github_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruribou&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruribou&theme=github_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruribou&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruribou&theme=github_dark&utcOffset=9)
+<!-- 3D Contributions -->
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="700" alt="3D Contributions (dark)" />
