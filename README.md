@@ -4,11 +4,11 @@
 
 ## 🥈 Sub Programing Languages 
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,flutter,swift,py,flask,c,go&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,postgresql,ts,react,nextjs,flutter,swift,c,go&perline=6)](https://skillicons.dev)
 
 ## 🔧 My Use Tools
 
-[![My Skills](https://skillicons.dev/icons?i=npm,vite,vercel,docker&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vercel,docker&perline=6)](https://skillicons.dev)
 
 
 ## 📊 My Status
