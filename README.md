@@ -15,5 +15,7 @@
   </table>
 </div>
 
-### 3D Contributions
-<img src="./profile-3d-contrib/profile-night-green.svg" width="700" alt="3D Contributions (dark)" />
+<div align="center">
+  <h3>3D Contributions</h3>
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="700" alt="3D Contributions (dark)" />
+</div>
