@@ -11,14 +11,14 @@ jobs:
       - uses: actions/checkout@v6
 
       - name: Default contributions
-        uses: yoshi389111/github-profile-3d-contrib@v0.9.1
+        uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: conf/github-profile-3d-contrib.json
 
       - name: Night Green contributions # ダークモード用
-        uses: yoshi389111/github-profile-3d-contrib@v0.9.1
+        uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
