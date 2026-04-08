@@ -12,15 +12,19 @@ jobs:
 
       - name: Default contributions
         uses: yoshi389111/github-profile-3d-contrib@v0.9.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: conf/github-profile-3d-contrib.json
 
       - name: Night Green contributions # ダークモード用
         uses: yoshi389111/github-profile-3d-contrib@v0.9.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: conf/profile-night-green.json 
+          SETTING_JSON: conf/profile-night-green.json
 
       - name: Commit & Push
         run: |
