@@ -16,20 +16,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 2.18mb of code in 1241 edited files across 451 commits</small>
+                <small>estimation from 2.33mb of code in 1293 edited files across 468 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="148.0503317030254" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="148.0503317030254" y="0" width="94.66032815371396" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="242.71065985673937" y="0" width="89.02473417849885" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="331.7353940352382" y="0" width="46.39152879396042" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="378.12692282919863" y="0" width="33.24559179629419" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="411.3725146254928" y="0" width="28.61230144754351" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="439.9848160730363" y="0" width="10.047621070576483" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="450.0324371436128" y="0" width="9.967562856387184" height="8" fill="#336790"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="147.0083862776929" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="147.0083862776929" y="0" width="93.99412974168958" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="241.00251601938248" y="0" width="88.39819782797721" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="329.40071384735967" y="0" width="46.06503549505981" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="375.46574934241954" y="0" width="36.248994748881124" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="411.71474409130064" y="0" width="28.41093441068131" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="440.12567850198195" y="0" width="9.97690814011874" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="450.10258664210073" y="0" width="9.897413357899334" height="8" fill="#336790"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -41,7 +41,7 @@
                                 TSX
                             </div>
                             <small>
-                                <div>32.18%</div>
+                                <div>31.96%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -52,7 +52,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>19.35%</div>
+                                <div>19.22%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -63,7 +63,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>7.23%</div>
+                                <div>7.88%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -74,7 +74,7 @@
                                 Go
                             </div>
                             <small>
-                                <div>2.18%</div>
+                                <div>2.17%</div>
                             </small>
                         </div>
                     </section>
@@ -87,7 +87,7 @@
                                 Swift
                             </div>
                             <small>
-                                <div>20.58%</div>
+                                <div>20.43%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -98,7 +98,7 @@
                                 Ruby
                             </div>
                             <small>
-                                <div>10.09%</div>
+                                <div>10.01%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -109,7 +109,7 @@
                                 Jupyter Notebook
                             </div>
                             <small>
-                                <div>6.22%</div>
+                                <div>6.18%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -120,7 +120,7 @@
                                 PLpgSQL
                             </div>
                             <small>
-                                <div>2.17%</div>
+                                <div>2.15%</div>
                             </small>
                         </div>
                     </section>
