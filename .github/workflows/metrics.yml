@@ -10,6 +10,12 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
+      # Buildx + exposed Actions cache let the forked "details" image build reuse a layer cache across runs (much faster repeated runs)
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+      - name: Expose GitHub Actions cache to Docker buildx
+        uses: crazy-max/ghaction-github-runtime@v3
+
       - name: Default metrics
         uses: lowlighter/metrics@latest
         with:
