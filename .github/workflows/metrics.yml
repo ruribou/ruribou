@@ -18,8 +18,9 @@ jobs:
           base: header, repositories, activity
 
       - name: Most used (with details)
-        uses: lowlighter/metrics@latest
+        uses: ruribou/portfolio-metrics@fix/languages-color-fallback
         with:
+          use_prebuilt_image: no
           filename: output/details.svg
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           base: "" 
