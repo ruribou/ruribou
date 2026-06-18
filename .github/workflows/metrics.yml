@@ -18,7 +18,7 @@ jobs:
           base: header, repositories, activity
 
       - name: Most used (with details)
-        uses: ruribou/portfolio-metrics@fix/languages-color-fallback
+        uses: ruribou/portfolio-metrics@master
         with:
           # Pulls the pre-built image from this fork's GHCR (published by build-docker.yml); no per-run rebuild
           filename: output/details.svg
