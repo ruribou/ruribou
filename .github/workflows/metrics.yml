@@ -35,8 +35,11 @@ jobs:
           plugin_languages_limit: 8
 
       - name: Compact display
-        uses: lowlighter/metrics@latest
+        uses: ruribou/portfolio-metrics@master
         with:
+          # Use the fork: upstream lowlighter/metrics is archived and its
+          # achievements query still requests the sunset Projects classic API,
+          # which hard-errors the whole query. The fork drops that field.
           filename: output/achievements.svg
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           base: ""
