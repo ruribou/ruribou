@@ -2,7 +2,7 @@
   <table border="0" width="100%">
     <tr>
       <td width="50%" align="center" valign="top">
-        <h3>GitHub Metrics</h3>
+        <h3>📊 GitHub Metrics</h3>
         <img src="./output/metrics.base.svg" alt="Base Metrics" width="100%" />
       </td>
       <td width="50%" align="center" valign="top">
@@ -16,10 +16,27 @@
 <br />
 
 <div align="center">
-  <h3>3D Contributions</h3>
+  <h3>🧊 3D Contributions</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
     <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg">
     <img alt="3D Contributions" src="./profile-3d-contrib/profile-night-green.svg" width="100%" />
   </picture>
+</div>
+
+<br />
+
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <h3>💡 Coding Habits</h3>
+        <img src="./output/habits.svg" alt="Coding Habits" width="100%" />
+      </td>
+      <td width="50%" align="center" valign="top">
+        <h3>🏅 Achievements</h3>
+        <img src="./output/achievements.svg" alt="Achievements" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>

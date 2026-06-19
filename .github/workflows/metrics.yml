@@ -43,3 +43,17 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_threshold: B
+
+      - name: Coding habits
+        uses: ruribou/portfolio-metrics@master
+        with:
+          # Pulls the pre-built image from this fork's GHCR (published by build-docker.yml); no per-run rebuild
+          filename: output/habits.svg
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: classic
