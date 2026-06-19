@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Default metrics
-        uses: ruribou/portfolio-metrics@v1.0.0
+        uses: ruribou/portfolio-metrics@v1
         with:
           # upstream lowlighter/metrics is archived; use the maintained fork
           filename: output/metrics.base.svg
@@ -19,7 +19,7 @@ jobs:
           base: header, repositories, activity
 
       - name: Most used (with details)
-        uses: ruribou/portfolio-metrics@v1.0.0
+        uses: ruribou/portfolio-metrics@v1
         with:
           # Pulls the pre-built image from this fork's GHCR (published by build-docker.yml); no per-run rebuild
           filename: output/details.svg
@@ -36,7 +36,7 @@ jobs:
           plugin_languages_limit: 8
 
       - name: Compact display
-        uses: ruribou/portfolio-metrics@v1.0.0
+        uses: ruribou/portfolio-metrics@v1
         with:
           # Use the fork: upstream lowlighter/metrics is archived and its
           # achievements query still requests the sunset Projects classic API,
@@ -49,7 +49,7 @@ jobs:
           plugin_achievements_threshold: B
 
       - name: Coding habits
-        uses: ruribou/portfolio-metrics@v1.0.0
+        uses: ruribou/portfolio-metrics@v1
         with:
           # Pulls the pre-built image from this fork's GHCR (published by build-docker.yml); no per-run rebuild
           filename: output/habits.svg
