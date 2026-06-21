@@ -8,7 +8,6 @@
   [![GitHub](https://img.shields.io/badge/@ruribou-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ruribou)
   [![Qiita](https://img.shields.io/badge/@ruribou-55C500?style=flat-square&logo=qiita&logoColor=white)](https://qiita.com/ruribou)
   [![Zenn](https://img.shields.io/badge/@eng__ryosan-3EA8FF?style=flat-square&logo=zenn&logoColor=white)](https://zenn.dev/eng_ryosan)
-  [![しずかなインターネット](https://img.shields.io/badge/@ruribou-000000?style=flat-square)](https://sizu.me/ruribou)
 
   <h3>🛠️ Languages</h3>
 
