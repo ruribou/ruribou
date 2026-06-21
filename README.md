@@ -1,6 +1,6 @@
 # Ryota Asai
 
-Software Engineer · Full-stack · Sagamihara, Japan
+Software Engineer · Backend · Sagamihara, Japan
 
 [![X](https://img.shields.io/badge/@ruribou__swe-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ruribou_swe)
 [![GitHub](https://img.shields.io/badge/@ruribou-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ruribou)
