@@ -10,12 +10,12 @@ Software Engineer · Backend · Sagamihara, Japan
 ### Currently
 
 - **Tokyo Denki University, Graduate School**
-  - Researching `IoE/M2M` at the IoE/M2M Solutions Lab
-- **Lovegraph Inc.**
+  - Researching `IoE/M2M` at the [IoE/M2M Solutions Lab](https://www.kamlab.rd.dendai.ac.jp/about)
+- **[Lovegraph Inc.](https://corporate.lovegraph.me/)**
   - Engineer intern working on `product development`
-- **NxTEND**
+- **[NxTEND](https://www.nxtend.or.jp/)**
   - Running `Ramble`, an engineer community for students in Tokyo
-- **CA Tech Lounge**
+- **[CA Tech Lounge](https://www.cyberagent.co.jp/careers/special/students/tech_lounge/)**
   - Member
 
 ### Stack
