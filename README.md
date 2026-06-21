@@ -1,16 +1,19 @@
 <div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td width="50%" valign="top">
 
-## Ryota Asai
+# Ryota Asai
 
-Software Engineer · Backend · Sagamihara, Japan
+`Software Engineer` `Backend` `Sagamihara, Japan`
 
 [![X](https://img.shields.io/badge/@ruribou__swe-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ruribou_swe)
 [![GitHub](https://img.shields.io/badge/@ruribou-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ruribou)
 [![Qiita](https://img.shields.io/badge/@ruribou-55C500?style=flat-square&logo=qiita&logoColor=white)](https://qiita.com/ruribou)
 [![Zenn](https://img.shields.io/badge/@eng__ryosan-3EA8FF?style=flat-square&logo=zenn&logoColor=white)](https://zenn.dev/eng_ryosan)
+
+</div>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="left" valign="top">
 
 ### Currently
 
@@ -24,15 +27,14 @@ Software Engineer · Backend · Sagamihara, Japan
   - Member
 
 </td>
-      <td width="50%" align="center" valign="top">
-        <h3>GitHub Metrics</h3>
-        <img src="./output/metrics.base.svg" alt="Base Metrics" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
+    <td width="50%" align="center" valign="top">
+      <h3>GitHub Metrics</h3>
+      <img src="./output/metrics.base.svg" alt="Base Metrics" width="100%" />
+    </td>
+  </tr>
+</table>
 
-<div align="center">
+<div align="left">
 
 ### Stack
 
