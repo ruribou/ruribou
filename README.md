@@ -14,7 +14,7 @@ Software Engineer · Backend · Sagamihara, Japan
 - **Lovegraph Inc.**
   - Engineer intern working on `product development`
 - **NxTEND**
-  - Running `Ramble`, an engineer community for students in the Kanto area
+  - Running `Ramble`, an engineer community for students in Tokyo
 - **CA Tech Lounge**
   - Member
 
