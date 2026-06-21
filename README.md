@@ -9,9 +9,9 @@ Software Engineer · Backend · Sagamihara, Japan
 
 ### Currently
 
-- 🎓 **東京電機大学大学院** — IoE/M2M ソリューション研究室で `IoE/M2M` の研究
-- 💼 **Lovegraph Inc.** — エンジニアインターンとしてフルスタックな `product development`
-- 🌱 **NxTEND** — 関東の学生エンジニアコミュニティ `Ramble` を運営
+- 🎓 **Tokyo Denki University, Graduate School** — Researching `IoE/M2M` at the IoE/M2M Solutions Lab
+- 💼 **Lovegraph Inc.** — Engineer intern working on `product development`
+- 🌱 **NxTEND** — Running `Ramble`, an engineer community for students in the Kanto area
 - ☕ **CA Tech Lounge** — Member
 
 ### Stack
