@@ -1,4 +1,9 @@
-# Ryota Asai
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <td width="50%" valign="top">
+
+## Ryota Asai
 
 Software Engineer · Backend · Sagamihara, Japan
 
@@ -17,6 +22,17 @@ Software Engineer · Backend · Sagamihara, Japan
   - Running `Ramble`, an engineer community for students in Tokyo
 - **[CA Tech Lounge](https://www.cyberagent.co.jp/careers/special/students/tech_lounge/)**
   - Member
+
+</td>
+      <td width="50%" align="center" valign="top">
+        <h3>GitHub Metrics</h3>
+        <img src="./output/metrics.base.svg" alt="Base Metrics" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
 
 ### Stack
 
@@ -47,20 +63,21 @@ Software Engineer · Backend · Sagamihara, Japan
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
 
----
+</div>
+
+<br />
 
 <div align="center">
   <table border="0" width="100%">
     <tr>
       <td width="50%" align="center" valign="top">
-        <h3>GitHub Metrics</h3>
-        <img src="./output/metrics.base.svg" alt="Base Metrics" width="100%" />
-      </td>
-      <td width="50%" align="center" valign="top">
         <h3>Language Details</h3>
         <img src="./output/details.svg" alt="Language Details" width="100%" />
+      </td>
+      <td width="50%" align="center" valign="top">
+        <h3>Coding Habits</h3>
+        <img src="./output/habits.svg" alt="Coding Habits" width="100%" />
       </td>
     </tr>
   </table>
@@ -80,16 +97,6 @@ Software Engineer · Backend · Sagamihara, Japan
 <br />
 
 <div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <h3>Coding Habits</h3>
-        <img src="./output/habits.svg" alt="Coding Habits" width="100%" />
-      </td>
-      <td width="50%" align="center" valign="top">
-        <h3>Achievements</h3>
-        <img src="./output/achievements.svg" alt="Achievements" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <h3>Achievements</h3>
+  <img src="./output/achievements.svg" alt="Achievements" width="80%" />
 </div>
