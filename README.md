@@ -9,10 +9,10 @@ Software Engineer · Backend · Sagamihara, Japan
 
 ### Currently
 
-- 🎓 **Tokyo Denki University, Graduate School** — Researching `IoE/M2M` at the IoE/M2M Solutions Lab
-- 💼 **Lovegraph Inc.** — Engineer intern working on `product development`
-- 🌱 **NxTEND** — Running `Ramble`, an engineer community for students in the Kanto area
-- ☕ **CA Tech Lounge** — Member
+- **Tokyo Denki University, Graduate School** — Researching `IoE/M2M` at the IoE/M2M Solutions Lab
+- **Lovegraph Inc.** — Engineer intern working on `product development`
+- **NxTEND** — Running `Ramble`, an engineer community for students in the Kanto area
+- **CA Tech Lounge** — Member
 
 ### Stack
 
@@ -48,11 +48,11 @@ Software Engineer · Backend · Sagamihara, Japan
   <table border="0" width="100%">
     <tr>
       <td width="50%" align="center" valign="top">
-        <h3>📊 GitHub Metrics</h3>
+        <h3>GitHub Metrics</h3>
         <img src="./output/metrics.base.svg" alt="Base Metrics" width="100%" />
       </td>
       <td width="50%" align="center" valign="top">
-        <h3>📈 Language Details</h3>
+        <h3>Language Details</h3>
         <img src="./output/details.svg" alt="Language Details" width="100%" />
       </td>
     </tr>
@@ -62,7 +62,7 @@ Software Engineer · Backend · Sagamihara, Japan
 <br />
 
 <div align="center">
-  <h3>🧊 3D Contributions</h3>
+  <h3>3D Contributions</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
     <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg">
@@ -76,11 +76,11 @@ Software Engineer · Backend · Sagamihara, Japan
   <table border="0" width="100%">
     <tr>
       <td width="50%" align="center" valign="top">
-        <h3>💡 Coding Habits</h3>
+        <h3>Coding Habits</h3>
         <img src="./output/habits.svg" alt="Coding Habits" width="100%" />
       </td>
       <td width="50%" align="center" valign="top">
-        <h3>🏅 Achievements</h3>
+        <h3>Achievements</h3>
         <img src="./output/achievements.svg" alt="Achievements" width="100%" />
       </td>
     </tr>
